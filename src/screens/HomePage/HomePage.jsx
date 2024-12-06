@@ -16,7 +16,7 @@ export const HomePage = () => {
         <div className="overlap">
           <div className="text-wrapper"><section id="section1">Zdravím tě, já jsem</section></div>
           <p className="p">
-            Student střední školy baltaci ve Zlíně. Je mi 19 let a zabývám se web designem a vytvářením webů, s tím že
+            Je mi 20 let a jsem zatím Studentem, který se zabývá web designem a vytvářením webů, s tím že
             se stanu v budoucnu učitelem.
           </p>
           <div className="text-wrapper-2">Petr Zachariáš</div>
